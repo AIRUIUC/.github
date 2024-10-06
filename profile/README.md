@@ -6,6 +6,7 @@
 <div align="center">
 
 [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" align="center">](https://instagram.com/aerialillinoisrobotics)
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" align="center">](https://linkedin.com/company/aerial-illinois-robotics/)
 
 | Total Visits to Our Repo!                                                                                                                                                                                                                            |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
