@@ -6,6 +6,7 @@
 
 - We are currently building our first drone!
 - We perform research on the latest advances in drone technology and implement them ourselves!
+- We also partake in researching and designing new technology that can be used in the drone industry.
 
 <p align="center">
   <img width="600" src="profile/AIR-logo.jpg">
