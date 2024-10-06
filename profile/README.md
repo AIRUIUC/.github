@@ -16,6 +16,6 @@
 
 | Total Visits to Our Repo!                                                                                                                                                                                                                            |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <div align="center">[![](https://visitcount.itsvg.in/api?id=AIRUIUC&icon=7&color=0)](https://visitcount.itsvg.in) </div> |
+| <div align="center">[![](https://visitcount.itsvg.in/api?id=AIRUIUC&label=Profile%20Views&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in) </div> |
 
 </div>
